@@ -18,6 +18,6 @@ void main()
 	if (str[i] == '\0')
 		printf("it is a number");
 	else
-		printf("not a num\n");
+		printf("not a number\n");
 }
 
